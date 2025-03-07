@@ -4,7 +4,7 @@ Mindpetal DC Metro Ridership Challenge: Karen Li, Cadence Cheng, Ilayda Dogan, H
 This repository includes:
 - README
 - CSV Files with data: data.csv, df.csv, dt.csv
-- Data Analysis and Visualizations Notebooks: Mindpetal_Data_Visualizations.ipynb, IC25.R 
+- Data Analysis and Visualizations Notebooks: Mindpetal_Data_Visualizations.ipynb, IC25.R, Starter_Notebook.ipynb 
 
 # Project Description
 Thousands of people ride the metro every day. People travel for different reasons, and, as college students who have our own reasons to use the metro, we wanted to take a deeper look at what it means to residents by exploring what motivates riders. 
