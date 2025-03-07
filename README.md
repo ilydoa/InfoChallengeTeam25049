@@ -3,6 +3,7 @@ Mindpetal DC Metro Ridership Challenge: Karen Li, Cadence Cheng, Ilayda Dogan, H
 
 This repository includes:
 - README
+- CSV Files with data: data.csv, df.csv, dt.csv
 - Data Analysis and Visualizations Notebooks: Mindpetal_Data_Visualizations.ipynb, IC25.R 
 
 # Project Description
