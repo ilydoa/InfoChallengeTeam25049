@@ -1,6 +1,8 @@
 # InfoChallengeTeam25049
 Mindpetal DC Metro Ridership Challenge: Karen Li, Cadence Cheng, Ilayda Dogan, Hellen Ou
 
+Presentation Link: https://docs.google.com/presentation/d/1pGZ0ZPhntu_YJR_VRc4jg5CCGpK4VH-hrabetFci150/edit?usp=sharing
+
 This repository includes:
 - README
 - CSV Files with data: data.csv, df.csv, dt.csv
